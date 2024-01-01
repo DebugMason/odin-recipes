@@ -2,18 +2,21 @@
     color:rgb(83, 71, 0);
     font-size: 30px;
     font-weight: bold;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 .pancakes{
     color:orange;
     font-size: 30px;
     font-weight: bold;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 .pretzels{
     color:rgb(168, 78, 5);
     font-size: 30px;
     font-weight: bold;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 .header{
@@ -21,4 +24,5 @@
     font-size: 50px;
     font-weight: bolder;
     background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
